@@ -26,6 +26,14 @@ body {
   background-color: var(--black-menu);
 }
 
+img {
+  width: 100px;
+}
+
+.logo {
+  margin: 10px;
+}
+
 .coral {
   background-color: lightcoral;
 }
