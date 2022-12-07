@@ -12,3 +12,20 @@
   --grey-card: #161616;
   --grey-card-over: #2a2a2a;
 }
+
+body {
+  color: whitesmoke;
+}
+
+.col-2,
+.col-10 {
+  height: 100vh;
+}
+
+.sidebar {
+  background-color: var(--black-menu);
+}
+
+.coral {
+  background-color: lightcoral;
+}
